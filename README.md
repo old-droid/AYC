@@ -1,25 +1,47 @@
-# AYC -Anyone can code!
-The modern framework for coding.
+# AYC — Anyone Can Code
 
-## The why?
-Now in this modern era of agents, the need for a proper philosophy for coding for seniors,juniors or newbies has been demanded,so here you go!
+The modern framework for learning how to build software with clarity and practice.
 
-## The philosophy
-Requirements:
-Now whether your a beginner,pro or hobbo doesn't matter,this works for anyone.
+## Why AYC?
+In an era of powerful tools and agents, the fundamentals of programming remain essential. AYC is a simple, practical philosophy to help beginners, intermediates, and experienced developers learn, practice, and ship projects.
 
-First of all syntax is no longer a barrier to entry.
-Before you go and start building projects.
+## Philosophy and Steps
+Follow these progressive steps — they work for anyone.
 
-* Master the fundamentals of programming,just the fundamentals nothing else through free resources.
-* After learning the fundamentals, apply them to the test by learning basic or using scratch really!
-* Now,that you have a good grasp of the fundamentals, start to learn technical concepts in the most used programming languages you used for your projects and try to read the docs,yup it's boring but worth it.
-* Now that you know the technical side of things,try to sharpen your problem solving skills via brilliant or just pseudocode.
-* try to master pseudocode by coding some programs in it.
-* Now that you have a grasp of the fundamentals and problem solving skills,try to learn the basic syntax and structure of your chosen language via boot.dev(not sponsored) or other free resources.
-* Now that you know the fundamentals, syntax,problem solving skills,technical concepts. Now you have to think like an architect and orchestrator for the LLM agent.
-How?: learn prompting: give the LLM a persona and write a technical spec of the project and mention it as a file reference,remember to keep these 3 point while writing one :a brief description, technical side of things like system design and data flow,the design of the project if it contains any GUI or web interface.
+1. Master the fundamentals
+   - Focus on core programming concepts (variables, control flow, data structures, functions).
+   - Use free resources to learn just the fundamentals first.
+
+2. Practice with simple projects
+   - Apply fundamentals through small projects or visual tools (e.g., Scratch).
+   - Reinforce learning by building and iterating.
+
+3. Study technical concepts in your chosen language(s)
+   - Read documentation and learn language idioms only after fundamentals are solid.
+   - Keep it practical: learn what you need for projects.
+
+4. Improve problem-solving
+   - Practice pseudocode and algorithmic thinking.
+   - Use sites like Brilliant or coding problem sets to build reasoning skills.
+
+5. Learn syntax and tooling
+   - Learn the basic syntax and project structure for your chosen language(s).
+   - Try boot.dev or other structured, free resources.
+
+6. Think like an architect
+   - Learn prompting and how to incorporate LLMs into your workflow.
+   - Write a brief technical spec and give an LLM a persona when asking for help.
+   - Include: brief description, technical requirements, file references.
+
+7. Ship projects
+   - Build, iterate, and publish projects to sharpen skills and learn from feedback.
+
+## Contributing
+- PRs and issues welcome.
+- Keep changes focused and include short descriptions of what you changed and why.
+
+## License
+Specify a license (e.g., MIT) or add one when ready.
 
 ---
-
-Nice Now you have successfully became a true architect in this era, Ship projects so you sharpen your skills.
+AYC is about lowering the barrier to programming, focusing on fundamentals, practice, and architecture.
