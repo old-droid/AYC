@@ -30,14 +30,14 @@ Follow these progressive steps — they work for anyone.
 
 6. Think like an architect
    - Learn prompting and how to incorporate LLMs into your workflow.
-   - Write a brief technical spec and give an LLM a persona when asking for help.
+   - Write a brief technical spec and give an LLM a persona when prompting the agent.
    - Include: brief description, technical requirements, file references.
 
 7. Ship projects
    - Build, iterate, and publish projects to sharpen skills and learn from feedback.
 
 ## Contributing
-- PRs and issues welcome.
+- PRs and issues are  welcome.
 - Keep changes focused and include short descriptions of what you changed and why.
 
 
