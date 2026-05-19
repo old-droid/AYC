@@ -40,8 +40,6 @@ Follow these progressive steps — they work for anyone.
 - PRs and issues welcome.
 - Keep changes focused and include short descriptions of what you changed and why.
 
-## License
-Specify a license (e.g., MIT) or add one when ready.
 
 ---
 AYC is about lowering the barrier to programming, focusing on fundamentals, practice, and architecture.
