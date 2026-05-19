@@ -1,0 +1,1 @@
+Rewrite README for clarity, grammar, and a clearer learning path. Adds contributing and license placeholders.
