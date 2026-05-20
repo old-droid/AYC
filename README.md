@@ -32,6 +32,7 @@ Follow these progressive steps — they work for anyone.
    - Learn prompting and how to steer CLI agents like Claude code,codex,opencode etc..
    - Write a brief technical spec and give an LLM a persona when prompting the agent.
    - Include: brief description, technical requirements, file references.
+   - Always Audit code for bugs,flaws and security issues.
 
 7. Ship projects
    - Build, iterate, and publish projects to sharpen skills and learn from feedback.
