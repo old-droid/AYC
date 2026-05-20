@@ -25,11 +25,11 @@ Follow these progressive steps — they work for anyone.
    - Use sites like Brilliant or coding problem sets to build reasoning skills.
 
 5. Learn syntax and tooling
-   - Learn the basic syntax and project structure for your chosen language(s).
+   - Learn the most basic syntax and structure for your chosen language(s) just enough for code literacy and ability to debug minor bugs
    - Try boot.dev or other structured, free resources.
 
 6. Think like an architect
-   - Learn prompting and how to incorporate LLMs into your workflow.
+   - Learn prompting and how to steer CLI agents like Claude code,codex,opencode etc..
    - Write a brief technical spec and give an LLM a persona when prompting the agent.
    - Include: brief description, technical requirements, file references.
 
